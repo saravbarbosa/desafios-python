@@ -1,3 +1,3 @@
-# Desafios Python
+# ✨ Desafios em Python
 
-- Desafios resolvidos do curso de Python do professor Guanabara.
+- Desafios resolvidos durante o decorrer do curso de Python do professor Guanabara.
