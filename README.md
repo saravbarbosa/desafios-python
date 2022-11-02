@@ -1,6 +1,7 @@
 # 🚀 Desafios em Python
 
-- Desafios resolvidos durante o decorrer do curso de Python do professor Guanabara.
+- Desafios resolvidos durante o decorrer do curso de Python do professor Guanabara. <br>
+Aqui você pode acompanhar as minhas resoluções.
 - Acesse as aulas e os enunciados dos desafios [aqui](https://www.cursoemvideo.com/cursos/).
 
 ## Índice
